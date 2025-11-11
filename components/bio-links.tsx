@@ -9,21 +9,21 @@ const links = [
     label: "الدفع السريع",
     href: "#",
     description: "ادفع فواتيرك بسرعة وأمان",
-    color: "from-amber-400 to-amber-600",
+    color: "from-pink-400 to-rose-600",
   },
   {
     icon: CreditCard,
     label: "دفع الفواتير",
     href: "#",
     description: "كل فواتيرك في مكان واحد",
-    color: "from-orange-400 to-orange-600",
+    color: "from-pink-400 to-rose-600",
   },
   {
     icon: FileText,
     label: "العروض والخدمات",
     href: "#",
     description: "اطلع على أحدث العروض المتاحة",
-    color: "from-rose-400 to-rose-600",
+    color: "from-pink-400 to-rose-600",
   },
 ]
 
