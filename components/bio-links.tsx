@@ -41,7 +41,7 @@ export default function BioLinks() {
               <Link
                 key={i}
                 href={link.href}
-                className="group relative p-4 border border-border rounded-xl bg-card hover:bg-accent/10 transition-all"
+                className="group relative p-2 border border-border rounded-xl bg-card border-1 border-rose-500/70 hover:bg-pink-400/40 transition-all"
               >
                 <div className="flex flex-col items-center text-center space-y-2">
                   <div
