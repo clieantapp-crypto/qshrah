@@ -101,9 +101,9 @@ export default function Footer() {
               تواصل معنا
             </h4>
             <div className="space-y-3 text-sm text-secondary-foreground/80">
-              <p>البريد: info@communications.com</p>
-              <p>الهاتف: +966-9-2000-0000</p>
-              <p>العنوان: الرياض، المملكة العربية السعودية</p>
+              <p>البريد: info@e.gov.kw</p>
+              <p>الهاتف: +965-9-2000-0000</p>
+              <p>العنوان: الكويت, مدينة الكويت </p>
             </div>
           </div>
         </div>
