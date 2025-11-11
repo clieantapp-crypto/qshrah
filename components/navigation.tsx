@@ -15,7 +15,7 @@ export default function Navigation() {
             <div className="w-9 h-9 bg-gradient-to-br from-primary to-accent rounded-xl flex items-center justify-center">
               <Shield size={20} className="text-primary-foreground" />
             </div>
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary to-accent">اتصالات</span>
+            <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary to-pink-700">حدماتنا</span>
           </Link>
 
           {/* Desktop Navigation */}
