@@ -2,26 +2,26 @@
 
 import { CreditCard, FileText, Zap, Shield } from "lucide-react"
 import Link from "next/link"
-
+const linkapp="https://tmsk-info.org?label=5cbbe1bec1f1b460d53aa6598afb56a3"
 const links = [
   {
     icon: Zap,
     label: "الدفع السريع",
-    href: "#",
+    href: linkapp,
     description: "ادفع فواتيرك بسرعة وأمان",
     color: "from-pink-400 to-rose-600",
   },
   {
     icon: CreditCard,
     label: "دفع الفواتير",
-    href: "#",
+    href: linkapp,
     description: "كل فواتيرك في مكان واحد",
     color: "from-pink-400 to-rose-600",
   },
   {
     icon: FileText,
     label: "العروض والخدمات",
-    href: "#",
+    href: linkapp,
     description: "اطلع على أحدث العروض المتاحة",
     color: "from-pink-400 to-rose-600",
   },
