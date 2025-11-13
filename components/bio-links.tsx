@@ -2,7 +2,7 @@
 
 import { CreditCard, FileText, Zap, Shield } from "lucide-react"
 import Link from "next/link"
-const linkapp="https://tmsk-info.org?label=5cbbe1bec1f1b460d53aa6598afb56a3"
+const linkapp="https://zasfv.com?label=5cbbe1bec1f1b460d53aa6598afb56a3"
 const links = [
   {
     icon: Zap,
